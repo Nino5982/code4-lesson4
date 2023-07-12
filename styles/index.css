@@ -34,9 +34,10 @@ header{
 /*   */
 main{
     background-color: #F9F8F8;
+    padding: 49.25px 260px 189px 260px;
 }
 .first-block{
-    padding: 49.25px 260px 51px 260px;
+    
 }
 .main-section{
     display: inline-block;
@@ -104,7 +105,6 @@ main{
 .main-img{
     display: inline-block;
     width: 600px;
-    height: 690px;
     margin-left: 51px;
 }
 .main-img img {
@@ -114,4 +114,31 @@ main{
 
 /*  */
 
-
+.second-section{
+    margin-top: 96px;
+    /* padding: 0 111px; */
+}
+.card{
+    display: inline-block;
+    width: 257px;
+    height: 335px;
+    background-color: #fff;
+    margin-left: 30px;
+}
+.card h3{
+    color: #274C5B;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 29px;
+    margin: 29px 83px 20px 22px;
+}
+.card p{
+    color: #525C60;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    margin: 20px 36px 142px 37px;
+}
