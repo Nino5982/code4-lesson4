@@ -1,0 +1,33 @@
+header{
+    width: 1596px;
+    padding: 69px 162px;
+
+}
+
+.logo-section{
+    display: inline-block;
+    vertical-align:middle;
+    margin-right: 150px;
+}
+.brand-name{ 
+    color: #274C5B;
+    font-family: Roboto;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 45px;
+}
+.logo-section img{
+    vertical-align:middle;
+}
+.nav{
+    display: inline-block;
+}
+.nav li{
+    display: inline-block;
+    margin-right: 50px;
+    color: #274C5B;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 53px;
+}
