@@ -37,12 +37,13 @@ header {
 }
 main {
   background-color: #f9f8f8;
-  padding: 49px 260px 0px 260px;
+  /* padding: 49px 260px 0px 260px; */
 }
 /*  */
 .main-section {
   width: 1400px;
-  margin-bottom: 91px;
+  margin: 0 auto 91px;
+  /* margin-bottom: 91px; */
 }
 .first-block {
   width: 671px;
@@ -112,7 +113,8 @@ main {
 /*  */
 .second-section {
   width: 1400px;
-  padding-bottom: 189px;
+margin: 0 auto;
+ 
 }
 .card-div {
   width: 1125px;
