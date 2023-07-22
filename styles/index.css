@@ -1,14 +1,21 @@
-body {
-  width: 1920px;
-  height: 1429px;
+.inl-block {
+  display: inline-block;
 }
 header {
   padding: 69px 162px;
 }
-.logo-section {
-  display: inline-block;
+.header-div {
+  width: 913px;
+}
+
+.logo {
+  width: 199px;
   vertical-align: middle;
   margin-right: 150px;
+}
+.brand-name img {
+  vertical-align: middle;
+  display: inline-block;
 }
 .brand-name {
   color: #274c5b;
@@ -17,31 +24,30 @@ header {
   font-weight: 700;
   line-height: 45px;
 }
-.logo-section img {
-  vertical-align: middle;
-}
 .nav {
-  display: inline-block;
-}
-.nav li {
-  display: inline-block;
-  margin-right: 50px;
   color: #274c5b;
   font-family: Roboto;
   font-size: 20px;
   font-weight: 700;
-  line-height: 53px;
+  line-height: 23px;
+  text-align: end;
 }
-/*   */
+.marg {
+  margin-right: 40px;
+}
 main {
   background-color: #f9f8f8;
-  padding: 49.25px 260px 189px 260px;
+  padding: 49px 260px 0px 260px;
 }
-
+/*  */
 .main-section {
-  display: inline-block;
+  width: 1400px;
+  margin-bottom: 91px;
+}
+.first-block {
   width: 671px;
 }
+/* text */
 .question {
   color: #7eb693;
   font-family: "Yellowtail", cursive;
@@ -54,11 +60,9 @@ main {
   color: #274c5b;
   font-family: Roboto;
   font-size: 50px;
-  font-style: normal;
   font-weight: 800;
-  line-height: normal;
-  text-align: justify;
-  margin-bottom: 29px;
+  line-height: 59px;
+  margin-bottom: 24px;
 }
 .main-text {
   color: #525c60;
@@ -69,7 +73,7 @@ main {
 }
 .points {
   width: 504px;
-  margin-top: 36px;
+  margin-top: 34px;
 }
 .content {
   padding: 29px 91px 29px 27px;
@@ -99,28 +103,29 @@ main {
   margin-top: 12px;
   padding-left: 60px;
 }
-.main-img {
-  display: inline-block;
-  width: 600px;
-  margin-left: 51px;
+/*  */
+.pic-div {
 }
-.main-img img {
+.pic-div img {
   border-radius: 15px;
 }
-
 /*  */
-
 .second-section {
   width: 1400px;
-  margin: 96px auto;
-  padding: 0 111px;
+}
+.card-div {
+  width: 1125px;
+  margin: 0 auto;
 }
 .card {
   display: inline-block;
   width: 257px;
   height: 335px;
   background-color: #fff;
-  margin-left: 30px;
+  padding: 29px 22px;
+}
+.marg-right {
+  margin-right: 28px;
 }
 .card h3 {
   color: #274c5b;
@@ -128,7 +133,7 @@ main {
   font-size: 25px;
   font-weight: 800;
   line-height: 29px;
-  margin: 29px 83px 20px 22px;
+  margin-bottom: 29px;
 }
 .card p {
   color: #525c60;
@@ -136,6 +141,5 @@ main {
   font-family: Open Sans;
   font-size: 18px;
   font-weight: 400;
-  line-height: 29px;
-  margin: 20px 36px 142px 37px;
+  line-height: 20px;
 }
