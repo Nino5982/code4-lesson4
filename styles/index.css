@@ -1,144 +1,141 @@
-header{
-    width: 1596px;
-    padding: 69px 162px;
-
+body {
+  width: 1920px;
+  height: 1429px;
 }
-
-.logo-section{
-    display: inline-block;
-    vertical-align:middle;
-    margin-right: 150px;
+header {
+  padding: 69px 162px;
 }
-.brand-name{ 
-    color: #274C5B;
-    font-family: Roboto;
-    font-size: 38px;
-    font-weight: 700;
-    line-height: 45px;
+.logo-section {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 150px;
 }
-.logo-section img{
-    vertical-align:middle;
+.brand-name {
+  color: #274c5b;
+  font-family: Roboto;
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 45px;
 }
-.nav{
-    display: inline-block;
+.logo-section img {
+  vertical-align: middle;
 }
-.nav li{
-    display: inline-block;
-    margin-right: 50px;
-    color: #274C5B;
-    font-family: Roboto;
-    font-size: 20px;
-    font-weight: 700;
-    line-height: 53px;
+.nav {
+  display: inline-block;
+}
+.nav li {
+  display: inline-block;
+  margin-right: 50px;
+  color: #274c5b;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 53px;
 }
 /*   */
-main{
-    background-color: #F9F8F8;
-    padding: 49.25px 260px 189px 260px;
-}
-.first-block{
-    
-}
-.main-section{
-    display: inline-block;
-    width: 671px;
-}
-.question{
-    color: #7EB693;
-    font-family: 'Yellowtail', cursive;
-    font-size: 36px;
-    font-weight: 400;
-    line-height: 49px;
-}
-.main-title{
-    width: 524px;
-    color: #274C5B;
-    font-family: Roboto;
-    font-size: 50px;
-    font-style: normal;
-    font-weight: 800;
-    line-height: normal;
-    text-align: justify;
-    margin-bottom: 29px;
-}
-.main-text{
-    color: #525C60;
-    font-family: Open Sans;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 30px
-}
-.points{
-    width: 504px;
-    margin-top: 36px;
-}
-.content{
-    padding: 29px 91px 29px 27px;
-    background: #ECECEC;
+main {
+  background-color: #f9f8f8;
+  padding: 49.25px 260px 189px 260px;
 }
 
-.icon{
-    display: inline-block;
-    vertical-align: middle;
+.main-section {
+  display: inline-block;
+  width: 671px;
 }
-.title{
-    display: inline-block;
-    width: 221px;
-    height: 23px;
-    color: #274C5B;
-    font-family: Roboto;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
+.question {
+  color: #7eb693;
+  font-family: "Yellowtail", cursive;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 49px;
+}
+.main-title {
+  width: 524px;
+  color: #274c5b;
+  font-family: Roboto;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  text-align: justify;
+  margin-bottom: 29px;
+}
+.main-text {
+  color: #525c60;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.points {
+  width: 504px;
+  margin-top: 36px;
+}
+.content {
+  padding: 29px 91px 29px 27px;
+  background: #ececec;
+}
 
+.icon {
+  display: inline-block;
+  vertical-align: top;
 }
-.content-text{
-    color: #525C60;
-    font-family: Open Sans;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 30px;
-    margin-top: 12px;
-    padding-left: 60px;
+.title {
+  display: inline-block;
+  width: 221px;
+  height: 23px;
+  color: #274c5b;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
 }
-.main-img{
-    display: inline-block;
-    width: 600px;
-    margin-left: 51px;
+.content-text {
+  color: #525c60;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 12px;
+  padding-left: 60px;
+}
+.main-img {
+  display: inline-block;
+  width: 600px;
+  margin-left: 51px;
 }
 .main-img img {
-    max-width: 100%;
-    border-radius: 15px;
+  border-radius: 15px;
 }
 
 /*  */
 
-.second-section{
-    margin-top: 96px;
-    /* padding: 0 111px; */
+.second-section {
+  width: 1400px;
+  margin: 96px auto;
+  padding: 0 111px;
 }
-.card{
-    display: inline-block;
-    width: 257px;
-    height: 335px;
-    background-color: #fff;
-    margin-left: 30px;
+.card {
+  display: inline-block;
+  width: 257px;
+  height: 335px;
+  background-color: #fff;
+  margin-left: 30px;
 }
-.card h3{
-    color: #274C5B;
-    font-family: Roboto;
-    font-size: 25px;
-    font-weight: 800;
-    line-height: 29px;
-    margin: 29px 83px 20px 22px;
+.card h3 {
+  color: #274c5b;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 800;
+  line-height: 29px;
+  margin: 29px 83px 20px 22px;
 }
-.card p{
-    color: #525C60;
-    text-align: center;
-    font-family: Open Sans;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 29px;
-    margin: 20px 36px 142px 37px;
+.card p {
+  color: #525c60;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 29px;
+  margin: 20px 36px 142px 37px;
 }

@@ -1,0 +1,144 @@
+.inl-block {
+  display: inline-block;
+}
+
+.header {
+  padding: 69px 162px;
+}
+.marg150 {
+  vertical-align: middle;
+  margin-right: 150px;
+}
+
+.brand-name img {
+  vertical-align: middle;
+  display: inline-block;
+}
+.brand-name {
+  color: #274c5b;
+  font-family: Roboto;
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 45px;
+}
+.nav {
+  width: 913px;
+  color: #274c5b;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 23px;
+  text-align: center;
+}
+.marg {
+  margin-right: 40px;
+}
+main{
+background-color: #F9F8F8;
+padding: 49px 260px 0px 260px;
+}
+/*  */
+.main-section{
+  width: 1400px;
+  margin-bottom: 91px;
+}
+.first-block{
+  width: 671px;
+}
+/* text */
+.question {
+  color: #7eb693;
+  font-family: "Yellowtail", cursive;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 49px;
+}
+.main-title {
+  width: 524px;
+  color: #274c5b;
+  font-family: Roboto;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 59px;
+  margin-bottom: 24px;
+}
+.main-text {
+  color: #525c60;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.points {
+  width: 504px;
+  margin-top: 34px;
+}
+.content {
+  padding: 29px 91px 29px 27px;
+  background: #ececec;
+}
+
+.icon {
+  display: inline-block;
+  vertical-align: top;
+}
+.title {
+  display: inline-block;
+  width: 221px;
+  height: 23px;
+  color: #274c5b;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.content-text {
+  color: #525c60;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 12px;
+  padding-left: 60px;
+}
+/*  */
+.pic-div{
+}
+.pic-div img{
+  border-radius: 15px;
+}
+/*  */
+.second-section {
+  width: 1400px;
+}
+.card-div{
+  width: 1125px;
+  margin: 0 auto;
+}
+.card {
+  display: inline-block;
+  width: 257px;
+  height: 335px;
+  background-color: #fff;
+  padding: 29px 22px;
+
+}
+.marg-right{
+  margin-right: 28px;
+}
+.card h3 {
+  color: #274c5b;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 800;
+  line-height: 29px;
+  margin-bottom: 29px;
+}
+.card p {
+  color: #525c60;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+}
